@@ -30,3 +30,4 @@ This README would normally document whatever steps are necessary to get your app
 * A new change
 * My other change
 * This is a conflict
+* more changes from master

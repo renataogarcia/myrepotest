@@ -29,3 +29,4 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 * A new change
 * My other change
+* This is a conflict

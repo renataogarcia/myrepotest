@@ -3,3 +3,4 @@ new branch-2
 
 another file changed
 branch-2
+c
